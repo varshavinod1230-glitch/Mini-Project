@@ -1,3 +1,5 @@
+DATA CLEANING STEPS
+
 1. Duplicate records were identified and removed using Remove Duplicate feature to ensure each entry appeared only once in the dataset.
 
 2. Blank values were identified through Ctrl+G option and replaced text values with "Unknown" and numercial values with "0" (Ctrl+H)
