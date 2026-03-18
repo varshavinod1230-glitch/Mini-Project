@@ -1,4 +1,4 @@
-DATA CLEANING STEPS
+#DATA CLEANING STEPS
 
 1. Duplicate records were identified and removed using Remove Duplicate feature to ensure each entry appeared only once in the dataset.
 
@@ -19,7 +19,7 @@ DATA CLEANING STEPS
 
 8. Formated Cleaned Dataset as a "Table"
 
-KEY INSIGHTS
+#KEY INSIGHTS
 
 1. Total MDR-TB Cases (Card)
  About 5 million cases show MDR-TB is a major global health problem.
